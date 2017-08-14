@@ -1,5 +1,5 @@
 {
-    "about": "Hello!\nMy name is Ketan Reddy, I am a 5th year Computer Engineer from Syracuse New York currently going to school at the Rochester Institute of Technology",
+    "about": "Hello! My name is Ketan Reddy, I am a 5th year Computer Engineer from Syracuse New York currently going to school at the Rochester Institute of Technology",
     "color": "#607D8B",
 	"ripple_rgb": "033, 58, 183",
     "favicon": "favicon.png",
@@ -8,7 +8,7 @@
 	"icons": [
 		{
 			"id": "circlegithubalt",
-			"url": "http://github.com/tylerkrupicka/material-resume"
+			"url": "https://github.com/KetanReddy"
 		}
 	]
 }
