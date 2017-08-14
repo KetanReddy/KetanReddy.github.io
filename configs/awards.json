@@ -1,0 +1,22 @@
+{
+	"awards": [
+		{
+			"title": "Dean's List",
+			"subtitle": "Awarded for having a per semester GPA over 3.4",
+			"dates": "2013-2017",
+			"text": "Achieved every academic semester"
+		},
+		{
+			"title": "Computer Science 2 Battle Royal",
+			"subtitle": "Second Place AI",
+			"dates": "2014",
+			"text": "A collaborative effort with Tyler Krupicka and James Reilly"
+		},
+		{
+			"title": "Imagine RIT drone challenge",
+			"subtitle": "Second Place",
+			"dates": "2015",
+			"text": "A collaborative effort with Tyler Krupicka, James Reilly and Jeremiah "
+		}
+	]
+}
