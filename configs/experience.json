@@ -1,7 +1,8 @@
 {
 	"experiences": {
 			"proficient": "Python, Java, Golang, Redis",
-			"experienced": "HTML/CSS, Angular JS, Vue JS, VHDL, SQLite, JWT, ARM and MIPS Assembly.",
-			"tools": "ModelSim, Quartus, Eclipse, Keil uVision, Docker, Apache Ignite, Microsoft and Unix/Linux systems"
+			"some": "HTML/CSS, VHDL, SQLite, JWT, ARM and MIPS Assembly, Docker, Apache Ignite",
+			"frameworks": "Angular JS, Vue JS, OAuth",
+			"tools": "ModelSim, Quartus, Eclipse, Keil uVision, Microsoft and Unix/Linux systems"
 		}
 }
