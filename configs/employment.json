@@ -1,22 +1,29 @@
 {
 	"jobs": [
 		{
-			"title": "GE Aviation Systems Co-Op",
-			"position": "Aviation Intern",
-			"dates": "August 2015 – December 2015",
-			"text": "Developed automated tracking systems for test equipment and project specific metrics. Developed automated tool to simplify procedures and improve efficiency. Wrote and formalized lab procedures for delivery to customer. Assisted in verifying and correcting test procedures."
-		},
-		{
-			"title": "Fidelity Investments",
-			"position": "Summer Intern",
-			"dates": "May 2016 – August 2016",
-			"text": "Software Engineering role. Worked in Agile/SCRUM teams to implement features into existing applications, rewrite front end for legacy application and design ReST web service applications. Used AngularJs, Java and HTML/CSS."
+			"title": "Citibank",
+			"position": "Application Developer Analyst",
+			"dates": "June 2018 - Present",
+			"text": "Currently working in Commercial Cards building Java applications and working with Docker/OpenShift."
 		},
 		{
 			"title": "Citibank",
 			"position": "Co-Op Analyst",
-			"dates": "January 2017 – July 2017",
+			"dates": "January 2017 - July 2017",
 			"text": "Worked in the Equities Analytics group. Developed Java and Python APIs for consuming and calculating statistics on market data. Developed APIs in Python and Java for reading and writing modified AVRO messages. Worked on proof of concepts on emerging technologies (Docker, High Performance Databases, ReST ) and its potential application to products within the team."
+		},
+		{
+			"title": "Fidelity Investments",
+			"position": "Summer Intern",
+			"dates": "May 2016 - August 2016",
+			"text": "Software Engineering role. Worked in Agile/SCRUM teams to implement features into existing applications, rewrite front end for legacy application and design ReST web service applications. Used AngularJs, Java and HTML/CSS."
+		},
+		{
+			"title": "GE Aviation Systems Co-Op",
+			"position": "Aviation Intern",
+			"dates": "August 2015 - December 2015",
+			"text": "Developed automated tracking systems for test equipment and project specific metrics. Developed automated tool to simplify procedures and improve efficiency. Wrote and formalized lab procedures for delivery to customer. Assisted in verifying and correcting test procedures."
 		}
+		
 	]
 }

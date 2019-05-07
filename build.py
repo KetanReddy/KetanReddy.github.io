@@ -20,7 +20,7 @@ class Builder():
 		self.load_config("configs/experience.json") #Experience config
 
 	def load_config(self, path):
-		with open(path) as config:
+		with open(path, encoding="utf8") as config:
 			data = json.load(config)
 		self.config.update(data)
 

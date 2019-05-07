@@ -1,14 +1,22 @@
 {
-    "about": "Hello! My name is Ketan Reddy, I am a 5th year Computer Engineer from Syracuse New York currently going to school at the Rochester Institute of Technology",
+    "about": "Hello! My name is Ketan and I am a software developer at Citigroup in Manhattan. Originally from Syracuse, New York. I graduated from RIT with a degree in Computer Engineering in 2018. Below you can find my professional history and personal projects. ",
     "color": "#607D8B",
 	"ripple_rgb": "033, 58, 183",
     "favicon": "favicon.png",
-    "subtitle": "Computer Engineer",
+    "subtitle": "Computer Engineer and Software Developer",
     "title": "Ketan Reddy",
 	"icons": [
 		{
 			"id": "circlegithubalt",
 			"url": "https://github.com/KetanReddy"
+		},
+		{
+			"id": "circlelinkedin",
+			"url": "https://www.linkedin.com/in/ketan-reddy/"
+		},
+		{
+			"id": "circleemail",
+			"url": "mailto:ketan@ketanreddy.com"
 		}
 	]
 }

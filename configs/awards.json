@@ -1,22 +1,28 @@
 {
 	"awards": [
 		{
-			"title": "Dean's List",
-			"subtitle": "Awarded for having a per semester GPA over 3.4",
-			"dates": "2013-2017",
-			"text": "Achieved every academic semester"
+			"title": "RIT STEAM Prize",
+			"subtitle": "First Place",
+			"dates": "2018",
+			"text": "Awarded by the RIT Department of Criminal Justice, this competition focused on technology that could improve the field of campus safety. Our project Clockwyse was awarded first place in the the inaugural STEAM prize competition. This was a collaborative effort with Tyler Krupicka and Jeremiah Zucker."
+		},
+		{
+			"title": "New York Business Plan Competition",
+			"subtitle": "Third Place - IT and Software",
+			"dates": "2018",
+			"text": "After winning a finalist position in the Finger Lakes regional portion of the NYBPC competition on the IT and Software track, Clockwyse went on to place third in the statewide competition. This was a collaborative effort with Tyler Krupicka and Jeremiah Zucker"
+		},
+		{
+			"title": "Imagine RIT Drone Challenge",
+			"subtitle": "Second Place",
+			"dates": "2015",
+			"text": "Presented as part of Imagine RIT, this competition centered around programming an drone to perform an automated task. This project was a collaborative effort with Tyler Krupicka, James Reilly and Jeremiah Zucker"
 		},
 		{
 			"title": "Computer Science 2 Battle Royal",
-			"subtitle": "Second Place AI",
-			"dates": "2014",
-			"text": "A collaborative effort with Tyler Krupicka and James Reilly"
-		},
-		{
-			"title": "Imagine RIT drone challenge",
 			"subtitle": "Second Place",
-			"dates": "2015",
-			"text": "A collaborative effort with Tyler Krupicka, James Reilly and Jeremiah "
+			"dates": "2014",
+			"text": "Student groups developed an AI to play a board game (Gobblet) which where then pitted against each other in a head-to-head competition. This project was a collaborative effort with Tyler Krupicka and James Reilly"
 		}
 	]
 }

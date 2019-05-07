@@ -1,8 +1,8 @@
 {
 	"experiences": {
-			"proficient": "Python, Java, Golang, Redis",
-			"some": "HTML/CSS, VHDL, SQLite, JWT, ARM and MIPS Assembly, Docker, Apache Ignite",
-			"frameworks": "Angular JS, Vue JS, OAuth",
-			"tools": "ModelSim, Quartus, Eclipse, Keil uVision, Microsoft and Unix/Linux systems"
+			"proficient": "Python, Java, Vue.js, Golang, HTML/CSS",
+			"some": "VHDL, C, ARM and MIPS Assembly",
+			"frameworks": "Docker, Kubernetes/OpenShift, OAuth, Flask, Caddy, Redis, JTW, Redis, Firebase/Firestore, Talend",
+			"tools": "Microsoft/Unix/Linux, SVN, Git, Team City"
 		}
 }

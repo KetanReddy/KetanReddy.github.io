@@ -1,10 +1,16 @@
 {
 	"projects": [
 		{
+			"title": "Clockwyse",
+			"description": "Administrative site for managing campus alerting devices",
+			"text": "A side project that became a capstone project that continues to grow. The goal is to make distributing emergency alerts at college campuses more accessible to colleges. Implemented numerous features in the main Vue.js web application, wrote the Web/ChromeOS device client and worked on designing the backend data services",
+			"uses": "Vue.js, Firebase"
+		},
+		{
 			"title": "Golang ReST API",
 			"description": "Built for a location based media sharing application",
 			"text": "A ReST API written in Golang to serve images and manage user profiles. Used SQlite and Redis to store information and used JWT for authentication.",
-			"uses": "Goland, Redis, SQLite"
+			"uses": "Golang, Redis, SQLite"
 		},
 		{
 			"title": "Automated Twitter Bot",
@@ -14,7 +20,7 @@
 		},
 		{
 			"title": "Gobblet AI",
-			"description": "Java AI to play boardgames",
+			"description": "Java AI to play board games",
 			"text": "Built for the Computer Science 2 final project, this AI was built to play the board game Gobblet against human or other AI players.",
 			"uses": "Java"
 		},
