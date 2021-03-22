@@ -2,9 +2,15 @@
 	"jobs": [
 		{
 			"title": "Citibank",
-			"position": "Application Developer Analyst",
-			"dates": "June 2018 - Present",
-			"text": "Currently working in Commercial Cards building Java applications and working with Docker/OpenShift."
+			"position": "Senior Application Developer / Application Developer Analyst 2",
+			"dates": "June 2019- Present",
+			"text": "Currently working in in Citi Private Bank on the Innovation Team. Designed and led implementation of a data aggregation/analysis platform and a NLP based automation platform which were rolled out to a combined 100 users. Led POCs/evaluations with emerging companies and technologies for use within the bank. Managed database, Linux server and OpenShift cluster infrastructure for the team. Setup and maintained CI/CD pipelines for the team leading to a 75% reduction in manual touchpoints for deployments."
+		},
+		{
+			"title": "Citibank",
+			"position": "Application Developer Analyst 1",
+			"dates": "June 2018 - June 2019",
+			"text": "Worked on the Commercial Cards Data Management Team. Developed custom Java/SQL based ETL report generation jobs for institutional clients. Led initiative to upgrade internal tooling to move towards CI/CD leading to 50% faster and low touch deployments."
 		},
 		{
 			"title": "Citibank",
