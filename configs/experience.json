@@ -1,8 +1,8 @@
 {
 	"experiences": {
 			"proficient": "Python, Java, Vue.js, React.js, Docker, Kubernetes/OpenShift",
-			"some": "Golang, VHDL, C, ARM and MIPS Assembly",
-			"frameworks": "OAuth, Flask, Caddy, JWT, Django, Spring",
-			"tools": "SVN, Git, Team City, Jenkins, Firebase/Firestore, SQL, PostgreSQL, Redis, Solr"
+			"some": "Golang, VHDL, C, R, ARM and MIPS Assembly",
+			"frameworks": "OAuth, Flask, JWT, Django, Spring",
+			"tools": "SVN, Git, Team City, Jenkins, Nginx, Caddy,Firebase/Firestore, SQL, PostgreSQL, MongoDB, Redis, Solr"
 		}
 }
